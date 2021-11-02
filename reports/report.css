@@ -6,6 +6,13 @@ p, h2 {
     padding: 0% 3%;
 }
 
-h1, h3, img {
+h1, h3 {
     text-align: center
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
 }
