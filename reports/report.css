@@ -1,8 +1,11 @@
 body {
-    padding: 0% 3%;
     font-family: "Helvetica Neue"
 }
 
-h1, h3 {
+p, h2 {
+    padding: 0% 3%;
+}
+
+h1, h3, img {
     text-align: center
 }
